@@ -1,4 +1,4 @@
-        #  Adventure Works Sales Insights Dashboard
+        Adventure Works Sales Insights Dashboard
 Overview
 The Adventure Works Sales Insights Dashboard is a Power BI visualisation tool designed to provide actionable insights into the sales performance, product trends, and customer purchasing behaviour of Adventure Works' product portfolio. This dashboard was created using data from an Excel file and offers a variety of visualisations and filters to support data-driven decision-making.
 Objective
