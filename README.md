@@ -1,5 +1,4 @@
 # Adventure Works Sales Insights Dashboard
-![image alt](https://github.com/Maximus-247/Adventure-Works-Sales-Dashboard/blob/738b2c4cbde91f66ec35a56638c67b9cd24c2dbd/Screenshot%202025-01-25%20130822.png)
 ## Overview
 The Adventure Works Sales Insights Dashboard is a Power BI visualisation tool designed to provide actionable insights into the sales performance, product trends, and customer purchasing behaviour of Adventure Works' product portfolio. This dashboard was created using data from an Excel file and offers a variety of visualisations and filters to support data-driven decision-making.
 ### Objective 
