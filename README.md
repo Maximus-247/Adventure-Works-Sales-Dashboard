@@ -64,7 +64,7 @@ Product Size (Slicers): Filter sales data by product sizes (Small, Medium, Large
 •	Additionally, addressing operational bottlenecks, such as order processing delays, can lead to significant improvements in overall sales performance.
 ## Future Enhencement
 
-1. Add geographic visualizations for location-based insights.
-2. Include predictive analytics using machine learning.
-3. Develop an automated data update process for real-time insights.
+1. Adding geographic visualizations for location-based insights.
+2. Including predictive analytics using machine learning.
+3. Developing an automated data update process for real-time insights.
 
